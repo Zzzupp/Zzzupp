@@ -12,4 +12,9 @@
 ![sql](https://img.shields.io/badge/sql-090909?style=for-the-badge&logo=mysql&logoColor=154d28)
 
 
-Follow me
+## Follow me
+
+![intsagram](https://img.shields.io/badge/Intsagram-090909?style=for-the-badge&logo=instagram&logoColor=154d28)
+![twitter](https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=Twitter&logoColor=154d28)
+![vk](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=154d28)
+
