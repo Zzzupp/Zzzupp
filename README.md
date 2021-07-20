@@ -1,4 +1,4 @@
-[![Header](https://github.com/Zzzupp/Zzzupp/blob/main/assets/zzzup.gif)](t.me/ZzzupRSD)
+[![Header](https://github.com/Zzzupp/Zzzupp/blob/main/assets/zzzup.gif)](http://t.me/ZzzupRSD)
 
 About me
 
