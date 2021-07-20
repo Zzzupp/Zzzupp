@@ -1,4 +1,4 @@
-[![Header](https://github.com/Zzzupp/Zzzupp/blob/main/assets/zzzup.gif)](http://t.me/ZzzupRSD)
+[![GIF]()]
 
 ## I am a beginner web programmer from Ukraine
 
@@ -24,3 +24,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzzupp&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GIF](https://github.com/Zzzupp/Zzzupp/blob/main/assets/zzzup.gif)](http://t.me/ZzzupRSD)
