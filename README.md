@@ -21,7 +21,7 @@
 [![vk](https://img.shields.io/badge/Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=7efe00)](https://vk.com/artur321863)
 [![facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=7efe00)](https://www.facebook.com/artur.kadurin.7/)
 [![spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=7efe00)](https://open.spotify.com/user/31jzzp7h5eg3monqgfcrlis6cll4?si=dbd7b536cb934839)
-
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=7efe00)](https://steamcommunity.com/id/Zzzup)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzzupp&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
