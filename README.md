@@ -1,6 +1,6 @@
 [![HEADER](https://github.com/Zzzupp/Zzzupp/blob/main/assets/LOGO.png)](http://t.me/ZzzupRSD)
 
-## ↑ telegram there
+↑ telegram there
 
 ## I am a beginner web programmer from Ukraine
 
@@ -16,9 +16,12 @@
 
 ## Follow me
 
-![intsagram](https://img.shields.io/badge/Intsagram-000000?style=for-the-badge&logo=instagram&logoColor=7efe00)
-![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=7efe00)
-![vk](https://img.shields.io/badge/Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=7efe00)
+[![intsagram](https://img.shields.io/badge/Intsagram-000000?style=for-the-badge&logo=instagram&logoColor=7efe00)](https://www.instagram.com/zzzup._/)
+[![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=7efe00)](https://twitter.com/zzzup99566390)
+[![vk](https://img.shields.io/badge/Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=7efe00)](https://vk.com/artur321863)
+[![facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=7efe00)](https://www.facebook.com/artur.kadurin.7/)
+[![spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=7efe00)](https://open.spotify.com/user/31jzzp7h5eg3monqgfcrlis6cll4?si=dbd7b536cb934839)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzzupp&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,6 +31,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzzupp&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ↓ telegram there
+ ↓ telegram there
 
 [![GIF](https://github.com/Zzzupp/Zzzupp/blob/main/assets/zzzup.gif)](http://t.me/ZzzupRSD)
