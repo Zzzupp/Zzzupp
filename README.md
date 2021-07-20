@@ -1,4 +1,6 @@
-[![GIF]()]
+[![HEADER](https://github.com/Zzzupp/Zzzupp/blob/main/assets/LOGO.png)](http://t.me/ZzzupRSD)
+
+## ↑ telegram there
 
 ## I am a beginner web programmer from Ukraine
 
@@ -24,5 +26,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzzupp&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## ↓ telegram there
 
 [![GIF](https://github.com/Zzzupp/Zzzupp/blob/main/assets/zzzup.gif)](http://t.me/ZzzupRSD)
