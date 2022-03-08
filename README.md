@@ -2,7 +2,6 @@
 
 ↑ telegram there
 
-## I am a beginner web programmer from Ukraine
 
 
 ## Language and Tools 
